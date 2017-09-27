@@ -1,0 +1,10 @@
+[package]
+name = "cargo-plugin"
+version = "0.1.0"
+authors = ["Geoffroy Couprie <geo.couprie@gmail.com>"]
+description = "compile time plugins for your Rust projects"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Geal/cargo-plugin"
+
+[dependencies]
