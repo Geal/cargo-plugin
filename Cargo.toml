@@ -9,3 +9,6 @@ repository = "https://github.com/Geal/cargo-plugin"
 
 [dependencies]
 toml = "^0.4"
+handlebars = "^0.29"
+serde = "^1.0"
+serde_derive = "^1.0"
