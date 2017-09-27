@@ -8,3 +8,4 @@ readme = "README.md"
 repository = "https://github.com/Geal/cargo-plugin"
 
 [dependencies]
+toml = "^0.4"
