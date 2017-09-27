@@ -120,7 +120,7 @@ fn run() -> io::Result<()> {
         let final_cargo_toml = toml::to_string(&value).unwrap();
         //println!("final file:\n{}", final_cargo_toml);
 
-        final_cargo_toml
+        "# generated file, do not edit manually\n".to_string() + &final_cargo_toml
     };
 
     let mut file = File::create("./Cargo.toml")?;
