@@ -1,4 +1,4 @@
-# cargo-plugin, a tool to handle plugins at compile tome for your crate
+# cargo-plugin, a tool to handle plugins at compile time for your crate
 
 **Warning: experimental project, things might change soon**
 
